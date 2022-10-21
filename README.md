@@ -7,10 +7,6 @@ I’m interested in:
   - Artificial intelligence;
   - A lot of other stuff...
   
-I’m currently learning:
-  - Timing constraints for FPGA design;
-  - Disassembly with IDA Pro.
-
 How to reach me: art-shangaraev@yandex.ru
 
 <!---
